@@ -1,0 +1,6 @@
+{
+  "name": "Stick Brawlers",
+  "description": "An addictive stick figure combat game to duel friends locally or online, level up, and unlock unique weapons and shields.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
